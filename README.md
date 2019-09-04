@@ -1,2 +1,4 @@
-# qaml
-An attempt to rewrite the QML engine with C# (Plan &amp; Discuss)
+# QAML (Plan &amp; Discuss)
+XAML-like QML (Qt Modeling Language) integration for .Net applications .
+
+...but what does the pigeon say?
